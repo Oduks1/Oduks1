@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oduks1
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning PHP as its a core dev interest 
+- 🌱 I’m currently learning more backend technologies as its a core dev interest 
 - 💞️ I’m looking to collaborate on developers on projects as a backend developer
 - 📫 How to reach me on linkedin (https://www.linkedin.com/in/oluwatobi-odukoya-998186213) 
 
